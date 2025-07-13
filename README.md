@@ -1,11 +1,11 @@
 # Modern JavaScript Cheatsheet
 
 ![Modern JavaScript cheatsheet](https://i.imgur.com/aexPxMb.png)
-<sub>Image Credits: [Ahmad Awais ⚡️](https://github.com/ahmadawais)</sub>
+<sub>Image Credits: [Ahmad Awais ⚡️](https://github.com/Knoph1)</sub>
 
 > If you like this content, you can ping me or follow me on Twitter :+1:
 
-[![Tweet for help](https://img.shields.io/twitter/follow/mbeaudru?label=Tweet%20%40mbeaudru&style=social)](https://twitter.com/mbeaudru/)
+[![Tweet for help](https://img.shields.io/twitter/follow/mbeaudru?label=Tweet%20%40knoph_ayieko&style=social)](https://twitter.com/knoph_ayieko/)
 
 ## Introduction
 
@@ -127,7 +127,7 @@ When you struggle to understand a notion, I suggest you look for answers on the 
 
 ### Variable declaration: var, const, let
 
-In JavaScript, there are three keywords available to declare a variable, and each has its differences. Those are ```var```, ```let``` and ```const```.
+In JavaScript, there are three keywords available to declare a variable and each has its differences. Those are ```var```, ```let``` and ```const```.
 
 #### Short explanation
 
@@ -1824,7 +1824,7 @@ console.log(r.useName()) // Repo name is modern-js-cheatsheet and it contains so
 
 ### <a name="scope_def"></a> Scope
 
-The context in which values and expressions are "visible," or can be referenced. If a variable or other expression is not "in the current scope," then it is unavailable for use.
+The context in which values and expressions are "visible" or can be referenced. If a variable or other expression is not "in the current scope" then it is unavailable for use.
 
 Source: [MDN](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
 
@@ -1840,3 +1840,5 @@ myArray.push("firstEl") // myArray is being mutated
 A variable is said to be *immutable* if it can't be mutated.
 
 [Check MDN Mutable article](https://developer.mozilla.org/en-US/docs/Glossary/Mutable) for more details.
+
+---

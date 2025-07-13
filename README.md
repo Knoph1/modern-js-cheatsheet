@@ -1,7 +1,7 @@
 # Modern JavaScript Cheatsheet
 
 ![Modern JavaScript cheatsheet](https://i.imgur.com/aexPxMb.png)
-<sub>Image Credits: [Ahmad Awais ⚡️](https://github.com/Knoph1)</sub>
+<sub>Image Credits: [Knoph Ayieko ⚡️](https://github.com/Knoph1)</sub>
 
 > If you like this content, you can ping me or follow me on Twitter :+1:
 

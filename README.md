@@ -4,9 +4,7 @@
 - ssc
 - xsxs
 
---\sdfbg --
-
-- wdve
+- hjk
 
 ![Modern JavaScript cheatsheet](https://i.imgur.com/aexPxMb.png)
 <sub>Image Credits: [Knoph Ayieko ⚡️](https://github.com/Knoph1)</sub>

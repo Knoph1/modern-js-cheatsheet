@@ -6,6 +6,15 @@
 
 vfeve
 
+r
+fbreb
+dfb
+fd
+b
+dfb
+f
+fsz
+
 - wdve
 
 ![Modern JavaScript cheatsheet](https://i.imgur.com/aexPxMb.png)

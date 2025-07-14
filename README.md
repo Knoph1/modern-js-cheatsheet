@@ -4,6 +4,10 @@
 - ssc
 - xsxs
 
+vfevev
+
+wdvewv
+
 ![Modern JavaScript cheatsheet](https://i.imgur.com/aexPxMb.png)
 <sub>Image Credits: [Knoph Ayieko ⚡️](https://github.com/Knoph1)</sub>
 
